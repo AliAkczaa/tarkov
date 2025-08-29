@@ -1,2 +1,2 @@
-watchdog==2.3.1
-selenium==4.11.2
+watchdog
+selenium
